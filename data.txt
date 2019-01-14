@@ -1,0 +1,3 @@
+Nombre: Jose Manuel Ocaña
+Edad: 23
+Color favorito: Azul
